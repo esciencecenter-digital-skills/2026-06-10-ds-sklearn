@@ -1,2 +1,2 @@
 venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor
-eScience Center,"Science Park 140, 1098 XG Amsterdam",Netherlands,52.35695685,4.95433748205789,"December 24 - 26, 2021, CET",7:00 - 9:00,2021-12-24T00:00:00Z,2021-12-26T00:00:00Z,"Johan Hidding, Lieke de Boer, Mateusz Kuzak","Pushpanjali Pawar, Thijs van Lankveld","ds","ds-parallel",Christmas special test workshop,2021-12-24-dc-socsci-R-nlesc,R
+Odissei,Polak Building Burgemeester Oudlaan 50 Rotterdam,NA,51.916943602288754, 4.524916799998993,"June 10 - 11, 2026",9:00 - 17:00 CEST,2026-06-10T22:00:00Z,2026-06-11T22:00:00Z,"Malte Luken, Flavio Hafner","TBD",ds,ds-sklearn,Machine learning for ODISSEI summer school,2026-06-10-ds-sklearn,
